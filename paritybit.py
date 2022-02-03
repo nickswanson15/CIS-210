@@ -10,7 +10,6 @@ Credits: N/A
 Encode a sequence of characters with parity bits, then check for parity bits and report any errors
 '''
 
-
 def encode(letter):
 
     '''docstring
