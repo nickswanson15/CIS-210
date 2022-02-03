@@ -36,7 +36,6 @@ def mysqrt(n, k):
         x = 0.5*(x + n/x)
     return x
 
-
 def sqrt_compare(num, iterations):
     '''docstring -
     -   Integer > float  #type contract
@@ -56,7 +55,6 @@ def sqrt_compare(num, iterations):
     print("math lib sqrt value is " + str(b))
     print(str(c) + ' percentage error')
     return None
-    
     
 def main():
     '''Sqaure root comaprison'''
