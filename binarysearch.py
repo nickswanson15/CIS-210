@@ -7,6 +7,7 @@ Author: Nick Swanson
 
 Credits: N/A
 '''
+
 def ismemberI(aseq, target):
     '''(str) -> bool
 
@@ -28,6 +29,7 @@ def ismemberR(aseq, target):
     >>> ismemberR((4, 5, 6), 5)
     True
     '''
+    
     go = True
     while go == True:
         for i in range(len(aseq)):
@@ -36,7 +38,6 @@ def ismemberR(aseq, target):
                 go = False
             else:
                 return False
-
 
 def bintest(f):
     '''(str) -> str
@@ -89,4 +90,3 @@ def main():
     bintest('ismemberR')
 
 main()
-        
