@@ -1,2 +1,2 @@
 # CIS-210
-Projects from CIS 210 at the University of Oregon.
+Projects from CIS 210 at the University of Oregon...
