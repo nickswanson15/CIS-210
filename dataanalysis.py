@@ -156,7 +156,3 @@ def main(thelist):
     return None
 
 print(main(equakes))
-
-
-
-
