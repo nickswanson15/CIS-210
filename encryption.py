@@ -3,6 +3,7 @@ Nick Swanson
 basic encryption for a password - cybersecurity practice
 18, April 2021
 '''
+
 def encrypt():
     '''encrypts by making each letter in the password go
     one letter further up in the alphabet; (i.e bat -> cbu)'''
