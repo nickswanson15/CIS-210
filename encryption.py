@@ -33,7 +33,6 @@ def encrypt():
             
             for letter in password:
                 encrypted += key[letter]
-
             print(str(''))
             print(str('decrypted password: ' + password))
             print(str('encrypted password: ' + encrypted))
