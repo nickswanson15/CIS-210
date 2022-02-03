@@ -1,7 +1,7 @@
 '''
 Paraity bits
 
-CIS  210 Project 5-2 parity bits
+CIS 210 Project 5-2 parity bits
 
 Author: Nick Swanson
 
